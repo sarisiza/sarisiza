@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sarisiza
 - 👀 I’m interested in videogames, robotics, investments, leadership, new opportunities
-- 🌱 I’m currently learning Android apps
-- 📫 How to reach me: on my Instagram @sarizziza
+- 🌱 I develop Android apps
+- 📫 You can reach me through X: @sarisiza
+- 🏢 Find me on LinkedIn: https://www.linkedin.com/in/saraiza/
 
 <!---
 sarisiza/sarisiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
